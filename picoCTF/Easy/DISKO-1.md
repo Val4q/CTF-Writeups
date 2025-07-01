@@ -64,6 +64,6 @@ But be careful, we don't want to extract the entire text of the file! We only ne
 strings disko-1.dd | grep pico
 The output:
 
-https://github.com/Val4q/CTF-Writeups/blob/main/Screenshot%202025-06-30%20154119.png
+![image alt](https://github.com/Val4q/CTF-Writeups/blob/main/Screenshot%202025-06-30%20154119.png)
 
 As you can see in the screenshot the flag is picoCTF{1t5_ju5t_4_5tr1n9_e3408eef}
