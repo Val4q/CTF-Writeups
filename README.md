@@ -8,5 +8,6 @@ This repoistry contains my writeups for CTF challenges from various platforms su
 - Inside each platform folder challenges are catagorized by difficulty.
 
 ## Goals
-- Practicing and documenting my penetration testing journey.
+- Practicing and documenting my journey in cyber security field.
 - Building a strong portfolio for the future and sharing knowledge to serve the community.
+- Sharing knowledge and helping people with my write ups.
